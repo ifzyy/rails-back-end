@@ -36,7 +36,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li>The web app that consumes this API is <a href="https://github.com//Lizdev-05/hello-react-front-end">here</a></li>
+    <li>The web app that consumes this API is <a href="https://github.com/ifzyy/react-front-end">here</a></li>
   </ul>
 </details>
 
@@ -125,13 +125,13 @@ You can deploy this project using:
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Ojesanmi Elizabet Oyin**
+👤 **Johnson Emmanuel**
 
-- GitHub: [@Lizdev-05](https://github.com/Lizdev-05)
+- GitHub: [@Johnson](https://github.com/ifzyy)
 
-- Twitter: [@ojesanmi_oyin](https://twitter.com/ojesanmi_oyin)
+- Twitter: [@Johnson](https://twitter.com/Johnsn_Emmanuel)
 
-- LinkedIn: [Elizabeth Oyinlade Ojesanmi](https://www.linkedin.com/in/elizabeth-oyinlade-ojesanmi-0702aa16a)
+- LinkedIn: [@Johnson](https://www.linkedin.com/in/johnson-emmanuel)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
